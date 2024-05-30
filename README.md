@@ -31,6 +31,6 @@ LEARNING_RATE: The learning rate used for training.
 
 **Contributions**
 -------------------
-Contributions to this repository are welcome! If you have suggestions, bug fixes, or new features, please submit a pull request.
+Contributions to this repository are welcome! Please submit a pull request if you have suggestions, bug fixes, or new features.
 
 Happy fine-tuning!
